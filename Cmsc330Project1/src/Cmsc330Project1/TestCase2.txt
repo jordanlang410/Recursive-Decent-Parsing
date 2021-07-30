@@ -1,0 +1,9 @@
+Window "Testing" (300, 300) Layout Flow:
+ Textfield 20;
+ Radio "7";
+ Radio "8";
+ Radio "9";
+ Radio "a";
+ Radio "b";
+ Radio "c";
+End.

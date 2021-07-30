@@ -1,0 +1,35 @@
+Window "Testing" (900, 500) Layout Flow: 
+Button "Test Case 4"; 
+Textfield 50; 
+Label "Testing 123"; 
+Radio "A";
+Radio "B";
+Radio "C"; 
+Radio "D"; 
+Radio "E"; 
+Radio "F"; 
+Panel Layout Grid(4, 3, 5, 5): 
+Button "1"; 
+Button "2"; 
+Button "3"; 
+Button "4"; 
+Button "5";
+Button "6";
+Button "7";
+End; 
+Label "THIS IS A TEST LABEL"; 
+Button "0"; 
+Panel Layout Flow: 
+Radio "x"; 
+Radio "y"; 
+Radio "z"; 
+Panel Layout Grid(3, 3): 
+Button "aaa"; 
+Button "bbb"; 
+Button "ccc"; 
+Button "ddd"; 
+Button "eee"; 
+End;
+End; 
+End.
+
